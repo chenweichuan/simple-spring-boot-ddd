@@ -3,6 +3,9 @@ package example.simplespringbootddd;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author chenweichuan
+ */
 @SpringBootApplication
 public class SimpleSpringBootDddApplication {
 
