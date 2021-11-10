@@ -1,4 +1,4 @@
-package example.simple.springboot.ddd.controllers;
+package example.simple.springboot.ddd.presentation.controllers;
 
 /**
  * @author chenweichuan
