@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'org.springframework.boot.simple-spring-boot-ddd' is invalid and this project uses 'org.springframework.boot.simplespringbootddd' instead.
+* The original package name 'example.simple-spring-boot-ddd' is invalid and this project uses 'example.simplespringbootddd' instead.
 
 # Getting Started
 
