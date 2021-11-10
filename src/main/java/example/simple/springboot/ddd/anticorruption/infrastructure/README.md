@@ -1,1 +1,1 @@
-implement the Sub-Interfaces of infrastructure.dependencies.Service
+Implement sub-interfaces of infrastructure.dependencies.Service.

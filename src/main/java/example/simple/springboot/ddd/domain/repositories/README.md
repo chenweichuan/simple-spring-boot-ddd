@@ -1,0 +1,1 @@
+Define sub-interfaces of Repository.

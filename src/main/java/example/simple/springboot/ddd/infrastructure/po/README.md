@@ -1,0 +1,1 @@
+Define Persistence Object.

@@ -1,1 +1,1 @@
-implement the Sub-Interfaces of domain.events.EventHandler
+Implement domain.events.EventHandler.

@@ -1,0 +1,1 @@
+Implement sub-interfaces of domain.repositories.Repository.

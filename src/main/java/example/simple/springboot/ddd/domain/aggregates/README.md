@@ -1,0 +1,1 @@
+Define AggregateRoot, Entity and ObjectValue.

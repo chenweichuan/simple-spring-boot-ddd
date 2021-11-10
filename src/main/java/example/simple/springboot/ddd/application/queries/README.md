@@ -1,0 +1,1 @@
+Define Query and implement corresponding QueryHandler.

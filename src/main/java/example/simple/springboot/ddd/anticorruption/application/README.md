@@ -1,1 +1,1 @@
-implement the Sub-Interfaces of application.dependencies.Service
+Implement sub-interfaces of application.dependencies.Service.
