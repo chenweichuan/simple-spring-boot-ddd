@@ -1,7 +1,5 @@
 package example.simple.springboot.ddd.libraries.utils;
 
-import org.apache.tomcat.jni.Local;
-
 import java.text.SimpleDateFormat;
 import java.time.LocalDateTime;
 import java.time.ZoneId;

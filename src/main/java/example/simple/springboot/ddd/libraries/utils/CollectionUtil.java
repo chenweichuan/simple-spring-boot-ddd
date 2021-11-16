@@ -47,4 +47,8 @@ public class CollectionUtil {
             return ImmutableList.copyOf(list);
         }
     }
+
+    public static <E> boolean isEmptyList(List<E> list) {
+        return (list == null) || (list.size() == 0);
+    }
 }
